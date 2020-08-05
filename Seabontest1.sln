@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Seabontest1", "Seabontest1\Seabontest1.pyproj", "{36E009A2-C7DE-4E99-BD70-5367567A9730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E009A2-C7DE-4E99-BD70-5367567A9730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E009A2-C7DE-4E99-BD70-5367567A9730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11236D2D-DF7D-4688-A760-E4D8D7AF0C26}
+	EndGlobalSection
+EndGlobal
